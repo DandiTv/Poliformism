@@ -1,0 +1,15 @@
+C:\dev\POC\Poliformism\MyPoliformismTest\bin\Debug\net8.0\MyPoliformismTest.exe
+C:\dev\POC\Poliformism\MyPoliformismTest\bin\Debug\net8.0\MyPoliformismTest.deps.json
+C:\dev\POC\Poliformism\MyPoliformismTest\bin\Debug\net8.0\MyPoliformismTest.runtimeconfig.json
+C:\dev\POC\Poliformism\MyPoliformismTest\bin\Debug\net8.0\MyPoliformismTest.dll
+C:\dev\POC\Poliformism\MyPoliformismTest\bin\Debug\net8.0\MyPoliformismTest.pdb
+C:\dev\POC\Poliformism\MyPoliformismTest\obj\Debug\net8.0\MyPoliformismTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POC\Poliformism\MyPoliformismTest\obj\Debug\net8.0\MyPoliformismTest.AssemblyInfoInputs.cache
+C:\dev\POC\Poliformism\MyPoliformismTest\obj\Debug\net8.0\MyPoliformismTest.AssemblyInfo.cs
+C:\dev\POC\Poliformism\MyPoliformismTest\obj\Debug\net8.0\MyPoliformismTest.csproj.CoreCompileInputs.cache
+C:\dev\POC\Poliformism\MyPoliformismTest\obj\Debug\net8.0\MyPoliformismTest.sourcelink.json
+C:\dev\POC\Poliformism\MyPoliformismTest\obj\Debug\net8.0\MyPoliformismTest.dll
+C:\dev\POC\Poliformism\MyPoliformismTest\obj\Debug\net8.0\refint\MyPoliformismTest.dll
+C:\dev\POC\Poliformism\MyPoliformismTest\obj\Debug\net8.0\MyPoliformismTest.pdb
+C:\dev\POC\Poliformism\MyPoliformismTest\obj\Debug\net8.0\MyPoliformismTest.genruntimeconfig.cache
+C:\dev\POC\Poliformism\MyPoliformismTest\obj\Debug\net8.0\ref\MyPoliformismTest.dll
