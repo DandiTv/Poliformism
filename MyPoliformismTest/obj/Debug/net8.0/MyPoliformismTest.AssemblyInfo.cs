@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyPoliformismTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba97da271170fcb922006eb7e887812d44861a11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4e2d77184c7ff46c863df435ff787309a9ec38f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyPoliformismTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyPoliformismTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
